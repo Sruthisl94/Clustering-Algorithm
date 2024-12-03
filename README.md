@@ -20,7 +20,7 @@ Description: KMeans clustering is an iterative algorithm that divides data point
 Initializing k centroids randomly.
 Assigning each data point to the nearest centroid.
 Updating the centroids by calculating the mean of the points in each cluster.
-Repeating steps 2 and 3 until convergence.
+Repeating the above steps until convergence.
 The Iris dataset is relatively simple and well-suited for KMeans as it has clear groupings of data points based on the flower species.
 KMeans works well when the clusters are spherical and roughly equal in size, which is a good assumption for the Iris dataset.
 
